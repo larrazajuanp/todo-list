@@ -11,4 +11,6 @@ This is a todo - list project, where every user write down, on an input field an
 
 You can learn more about me, here:  [My resume](https://jplarraza-cv.netlify.app/).
 
+## Visit the website
 
+You can visit the webiste, here: [Website](https://todo-list-jpl.netlify.app/)
